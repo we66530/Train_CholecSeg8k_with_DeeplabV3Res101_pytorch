@@ -21,7 +21,7 @@ COLOR_MAP = {
     12: (111, 74, 0),    # Liver Ligament
 }
 ```
-![Model will choose the picture with conversation fit your input](./demo.jpg)
+![Model will choose the picture with conversation fit your input](./output/demo.jpg)
 ## How to use
 ### train
 ```bash
