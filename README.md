@@ -19,4 +19,5 @@ This project utilizes the DeepLabV3_Res101 model, provided by the official PyTor
     11: (0, 50, 128), # Hepatic Vein
     12: (111, 74, 0),    # Liver Ligament
 }```
+
 ![Model will choose the picture with conversation fit your input](./demo.jpg)
