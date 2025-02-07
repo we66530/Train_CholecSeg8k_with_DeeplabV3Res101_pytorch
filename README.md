@@ -19,3 +19,4 @@ This project utilizes the DeepLabV3_Res101 model, provided by the official PyTor
     10: (255, 160, 165), # Gallbladder
     11: (0, 50, 128), # Hepatic Vein
     12: (111, 74, 0),    # Liver Ligament}```
+## Auto-segmentation in laparoscopic cholecystectomy images
