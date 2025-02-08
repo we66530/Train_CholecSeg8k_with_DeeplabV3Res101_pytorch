@@ -1,6 +1,7 @@
 # Train_CholecSeg8k_with_DeeplabV3Res101_pytorch
 ## 🚀 Update
 02/08: ```infer_v2.py```: Implemented a graphical interface for importing images and loading pre-trained models
+
 ![Model will choose the picture with conversation fit your input](./infer_v2_demo.png)
 
 02/07: Upload the pre-trained model ```epoch_39_loss_0.0630.pth``` with average IOU score = 0.9289
