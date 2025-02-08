@@ -1,5 +1,6 @@
 # Train_CholecSeg8k_with_DeeplabV3Res101_pytorch
 ## 🚀 Update
+02/08: ```infer_v2.py```: Implemented a graphical interface for importing images and loading pre-trained models.
 02/07: Upload the pre-trained model ```epoch_39_loss_0.0630.pth``` with average IOU score = 0.9289
 * if you need the pre-trained model, send your request to ```we66530@gmail.com```, I will sent you the link to the file (about 640 MB)
 ## Auto-segmentation in laparoscopic cholecystectomy images
